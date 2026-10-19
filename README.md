@@ -107,7 +107,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - <b><code>&nbsp;&nbsp;6089⭐</code></b> <b><code>&nbsp;&nbsp;2216🍴</code></b> [Docker/CLI](https://github.com/docker/cli)) _(label: exp/beginner)_ <br> The Docker CLI
 - <b><code>&nbsp;&nbsp;3348⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;432🍴</code></b> [Dragonfly](https://github.com/dragonflyoss/dragonfly)) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - <b><code>&nbsp;30322⭐</code></b> <b><code>&nbsp;&nbsp;7833🍴</code></b> [Helm](https://github.com/helm/helm)) _(label: good first issue)_ <br> The Kubernetes Package Manager
-- <b><code>&nbsp;90121⭐</code></b> <b><code>&nbsp;&nbsp;8390🍴</code></b> [Hugo](https://github.com/gohugoio/hugo)) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- <b><code>&nbsp;90121⭐</code></b> <b><code>&nbsp;&nbsp;8390🍴</code></b> [Hugo](https://github.com/gohugoio/hugo)) _(label: good first issue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - <b><code>&nbsp;&nbsp;6386⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;503🍴</code></b> [Incus](https://github.com/lxc/incus)) _(label: easy)_ <br> System container and virtual machine manager.
 - <b><code>&nbsp;&nbsp;&nbsp;887⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;185🍴</code></b> [Kanister](https://github.com/kanisterio/kanister)) _(label: good first issue)_ <br> A Data Protection Workflow Management Engine
 - <b><code>128241⭐</code></b> <b><code>&nbsp;47059🍴</code></b> [Kubernetes](https://github.com/kubernetes/kubernetes)) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
